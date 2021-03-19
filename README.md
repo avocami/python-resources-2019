@@ -17,10 +17,11 @@ programming.
 * [_Automate the Boring Stuff with Python Online Edition_](https://automatetheboringstuff.com/) Practical programming
  for complete beginners.
 
-* [_How to Think Like a Computer Scientist: Interactive Edition_](
-https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
+* [_How to Think Like a Computer Scientist: Interactive Edition_](https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
+* [Python all-in-one for dummies] (https://1lib.eu/book/4992130/b9786d) A good place to get started with the basics.
+* [Python by example-Learning to program in 150 challenges] (https://1lib.eu/book/5064269/1c9a1f) For 
 
 ### Classes
 
@@ -310,6 +311,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
+* [ Python Tutorial - Python for Beginners ](https://www.youtube.com/watch?v=_uQrJ0TkZlc) A comprehensive 6-hour Python class by Mosh for beginners.
 
  
 ### Other Resources
